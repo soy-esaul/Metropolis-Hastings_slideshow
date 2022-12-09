@@ -1,3 +1,3 @@
 # Metropolis-Hastings_slideshow
 
-Presentación ya rchivos auxiliares para proyecto final de Inferencia Estad
+Presentación y archivos auxiliares para proyecto final de Inferencia Estadística
